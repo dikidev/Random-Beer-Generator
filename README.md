@@ -1,4 +1,7 @@
 # Beer Generator
+
+Link: https://elated-jang-f1ead5.netlify.app/
+
  Focusing on the fetch() JavaScript method, as well as handling JSON files in API get requests.  
  
  Getting data from an object and more complex objects within objects.  
