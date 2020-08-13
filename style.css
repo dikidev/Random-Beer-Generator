@@ -1,0 +1,45 @@
+/*Special thanks to Marifer Villarroel on CodePen and Ania Kubow*/
+
+html, body {
+    height: 100vh;
+    background-color: #FEBC5B;
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    -ms-align-items: inherit;
+    align-items: center;
+    text-align: center;
+    background-color: #FEBC5B;
+}
+
+.random-beer {
+    margin-top: 150px;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    max-width: 600px;
+    color: #f7ecb7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.beer-button {
+    display: inline-flex;
+
+}
+
+.beer button a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #FEBC5B;
+    box-shadow: -8px -8px 12px 0 rgba(0, 0, 0, 0.3),
+                12px 12px 16px rgba(255, 255, 255, 0.25);
+    border-radius: 50%;
+    width: 80px;
+}
