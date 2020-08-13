@@ -1,6 +1,8 @@
 // Fetch method - fetch JSON file & print to console
 
 document.addEventListener('DOMContentLoaded', () => {
+    const startBtn = document.querySelector('.beer-button')
+    
 // Fetch method - fetch JSON file & print to console, http response
     fetch('https://api.punkapi.com/v2/beers/random')
         .then(response => {
