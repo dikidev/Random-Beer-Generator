@@ -1,6 +1,8 @@
 # Beer Generator
 
-Link: https://elated-jang-f1ead5.netlify.app/
+Link: https://beerdawg.netlify.app/
+
+Using the BrewDog API Catalogue, @dikidev created beerdawg! 
 
  Focusing on the fetch() JavaScript method, as well as handling JSON files in API get requests.  
  
